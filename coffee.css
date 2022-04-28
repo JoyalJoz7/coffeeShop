@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDMincho&family=Bangers&family=Dancing+Script&family=Josefin+Slab&family=Merienda&family=Press+Start+2P&family=Rubik+Puddles&family=Rubik+Wet+Paint&family=Shadows+Into+Light&family=Sigmar+One&display=swap');
+/* header{
+    width: 100%;
+    color: rgb(116, 32, 32);
+    position: absolute;
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+} */
+body{
+    background-image: url(./images/cffe2.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+#c1{
+    font-family:'Press Start 2P', cursive;
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-top: -44px;
+}
+.navbar-brand{
+    font-family:'Press Start 2P', cursive;
+}
+span:hover{
+    color: chocolate;
+}
+/* header{
+    height: 75px;
+    left: 0;
+    top: 0;
+} */
+#c10:hover{
+    color: chocolate;
+}
+#i1{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#d1{
+    width: fit-content;
+    height: fit-content;
+    margin-top: 150px;
+}
+#pr1{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 70px;
+}
+#pr1:hover{
+    color: rgb(231, 104, 19);
+}
+#im1{
+    width: 30%;
+    margin-top: -355px;
+    margin-left: 880px;
+    border-radius: 218px;
+}
+#d2{
+    font-family: 'Josefin Slab', serif;;
+    font-size: 30px;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    /* background-image: url(./images/cffe2.jpg); */
+    background-size: cover;
+}
+button{
+    margin-top: -55PX;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    float: left;
+    border-radius: 8px;
+    background-color: chocolate;
+}
+button:hover{
+    background-color: beige;
+
+}
+#B1{
+    margin-left: 70%;
+}
+#B2{
+    margin-left: 74%;
+}
+#B3{
+    margin-left: 1223px;
+}
+#B4{
+    margin-left: 1300px;
+}
+#c2{
+    color: white;
+    font-family: 'Merienda', cursive;
+    font-size: 80px;
+    margin-left: 70px;
+}
+#c2:hover{
+    color: chocolate;
+}
+.c1{
+    width:361px;
+    height: 444px;
+    float: left;
+    /* background-color: black; */
+    margin-left: 12px;
+    margin-top: 10px;
+    border-radius: 40px;
+    text-align: center;
+    background-image: url(./images/cfeeback.jpg);
+    background-size: cover;
+    color: white;
+    font-size:large;
+}
+.c1:hover{
+    box-shadow: rgba(250, 8, 8, 0.945) 0px 30px 90px;
+}
+#im2{
+    width:90%;
+    height: 200px;
+    border-radius: 40px;
+    padding-top: 10px;
+}
+#f1{
+ font-family: 'Sigmar One', cursive;
+}
+.grow img{
+    transition: 1s ease;
+    }
+    
+    .grow img:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+    }
+.di2{
+    width: 101%;
+    height: 500px;
+    /* background-color: chocolate; */
+    float: left;
+    margin-top: 20px;
+    margin-left: -7px;
+}
+#pr2{
+    text-align: center;
+    font-size: 60px;
+    margin-left: 100px;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(231, 104, 19);
+    color: white;
+    float: left;
+}
+#pr2:hover{
+    color: chocolate;
+}
+#im3{
+    float: left;
+    border-radius: 60px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 30%;
+}
+.di3{
+    margin-top: 20px;
+    float: left;
+    width: 101%;
+    height: 300px;
+    background-image: url(./images/boost.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color:#7d2d03; */
+}
+.cl2{
+    width: fit-content;
+    height: fit-content;
+    margin-top: 40px;
+    margin-left: 40px;
+    float: left;
+}
+.cl3{
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    margin-top: 40px;
+    margin-left: 30%;
+}
+#pr3{
+    color: rgb(235, 205, 205);
+    font-family: 'Amatic SC', cursive;
+    font-size:medium;
+}
+h3{
+font-family: 'Rubik Wet Paint', cursive;
+color: chocolate
+}
