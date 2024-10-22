@@ -1,2 +1,2 @@
-Just a amll beginner web page using HTML , CSS. 
+Just a small beginner web page using HTML , CSS. 
 its not responsive.
